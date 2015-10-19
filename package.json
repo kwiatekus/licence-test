@@ -9,5 +9,6 @@
     "url": "https://github.com/kwiatekus/licence-test"
   },
   "main": "index.js",
-  "preferGlobal": true
+  "preferGlobal": true,
+  "licence" : "red"
 }

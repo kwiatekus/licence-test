@@ -1,0 +1,13 @@
+{
+  "name": "licence-test",
+  "description": "test red license dependency",
+  "author": "kwiatekus",
+  "version": "0.0.1",
+  "private": false,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kwiatekus/licence-test"
+  },
+  "main": "index.js",
+  "preferGlobal": true
+}
